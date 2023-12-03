@@ -1,0 +1,17 @@
+{
+  "manifest_version": 3,
+  "name": "Haxball Camisetas",
+  "description": "Selecciona y guarda tus camisetas de Haxball",
+  "version": "1.0",
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "storage"
+  ],
+  "host_permissions": [
+    "https://www.haxball.com/play"
+  ],
+  "action": {
+    "default_popup": "index.html"
+  }
+}
