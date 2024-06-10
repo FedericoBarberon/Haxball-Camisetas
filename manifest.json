@@ -9,7 +9,7 @@
     "storage"
   ],
   "host_permissions": [
-    "https://www.haxball.com/play/*"
+    "https://www.haxball.com/play"
   ],
   "action": {
     "default_popup": "index.html"
